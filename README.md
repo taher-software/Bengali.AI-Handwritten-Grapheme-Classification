@@ -59,7 +59,7 @@ $ cd Web-dev-course-app/
 
 👤 **Taher Haggui**
 
-- GitHub: [@TaherHaggui](https://github.com/Taher-web-dev)
+- GitHub: [@TaherHaggui](https://github.com/taherhagui)
 - LinkedIn: [@TaherHaggui](https://www.linkedin.com/in/taher-haggui-66b5a6198/)
 
 
