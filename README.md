@@ -30,22 +30,21 @@ To get a local copy up and running follow these simple example steps.
 - Clone this project by the command: 
 
 ```
-$ git clone git@github.com:Taher-web-dev/Web-dev-course-app.git
+$ git clone https://github.com/taherhagui/Bengali.AI-Handwritten-Grapheme-Classification.git
 ```
 
 - Then go to the main folder using the next command:
 
 ```
-$ cd Web-dev-course-app/
+$ cd Bengali.AI-Handwritten-Grapheme-Classification/
 ```
 
-- Finally, run display the index.html file in your local browser, or also, you can use Live Server in Visual Studio Code.
 
 
 
 ### Prerequisites
 
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
+- IDE to edit and run the code (We use Jupyter Notebook 🔥).
 - Git to versionning your work.
 
 
